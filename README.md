@@ -2,9 +2,6 @@
 ```markdown
 #  Linear Discriminant Analysis (LDA) on Iris Dataset  
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-orange.svg)](https://scikit-learn.org/)  
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-brightgreen.svg)](https://jupyter.org/)  
 
 This project demonstrates **Linear Discriminant Analysis (LDA)** on the classic [Iris dataset](https://huggingface.co/datasets/scikit-learn/iris).  
 It includes data preprocessing, model training, evaluation, and **beautiful visualizations** of the dataset in LDA-reduced space.  
