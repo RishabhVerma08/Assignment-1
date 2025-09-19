@@ -65,15 +65,15 @@ Or upload it to [Google Colab](https://colab.research.google.com/).
 
 Data projected onto 2 linear discriminants shows **perfect separation** between species.
 
-*(Example plot)*
+*( plot)*
 ![LDA Scatter](https://github.com/RishabhVerma08/Assignment-1/blob/main/image.png)
 
 ####  Explained Variance Ratio
 
 Shows how much variance each discriminant captures.
 
-*(Example plot)*
-![LDA Variance](https://github.com/your-username/LDA-Iris/assets/your-image-id/variance.png)
+*(plot)*
+![LDA Variance](https://github.com/RishabhVerma08/Assignment-1/blob/main/variance-barplot.png)
 
 ---
 
