@@ -66,7 +66,7 @@ Or upload it to [Google Colab](https://colab.research.google.com/).
 Data projected onto 2 linear discriminants shows **perfect separation** between species.
 
 *(Example plot)*
-![LDA Scatter]([https://github.com/your-username/LDA-Iris/assets/your-image-id/scatter.png](https://github.com/RishabhVerma08/Assignment-1/issues/1))
+![LDA Scatter](https://github.com/RishabhVerma08/Assignment-1/issues/1)
 
 ####  Explained Variance Ratio
 
